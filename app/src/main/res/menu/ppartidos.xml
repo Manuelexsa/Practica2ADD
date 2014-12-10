@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kronos.practicaadd2.PPartidos" >
+    <item android:id="@+id/addp"
+        android:title="@string/addp"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

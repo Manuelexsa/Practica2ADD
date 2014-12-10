@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticaADD2</string>
+    <string name="add">+</string>
+    <string name="title_activity_janadir">Añadir</string>
+    <string name="addj">Añadir jugador</string>
+    <string name="addp">Añadir partido</string>
+    <string name="title_activity_pjugador">Jugadorer</string>
+    <string name="title_activity_ppartidos">Partidos</string>
+
+</resources>

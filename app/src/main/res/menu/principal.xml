@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal" >
+    <item
+        android:id="@+id/Nuevo"
+        android:textColor="#ff000000"
+        android:textSize="40sp"
+        android:title="@string/add"
+        android:showAsAction="ifRoom"
+        />
+</menu>
